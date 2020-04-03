@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaLetters", "VuforiaLetters.csproj", "{DE5100CE-CC23-1DBF-F87E-9CC11E7F69F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaLetters.Plugins", "VuforiaLetters.Plugins.csproj", "{EB4AD1A0-CB1B-78E0-3A30-1F96E13FCF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaLetters.Editor", "VuforiaLetters.Editor.csproj", "{6010317E-9619-02C4-E9D7-F935FA3D1116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaLetters.Editor.Plugins", "VuforiaLetters.Editor.Plugins.csproj", "{41D53A19-E7F9-9F5A-976A-53E980C83CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5100CE-CC23-1DBF-F87E-9CC11E7F69F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5100CE-CC23-1DBF-F87E-9CC11E7F69F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5100CE-CC23-1DBF-F87E-9CC11E7F69F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5100CE-CC23-1DBF-F87E-9CC11E7F69F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4AD1A0-CB1B-78E0-3A30-1F96E13FCF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4AD1A0-CB1B-78E0-3A30-1F96E13FCF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4AD1A0-CB1B-78E0-3A30-1F96E13FCF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4AD1A0-CB1B-78E0-3A30-1F96E13FCF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6010317E-9619-02C4-E9D7-F935FA3D1116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6010317E-9619-02C4-E9D7-F935FA3D1116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6010317E-9619-02C4-E9D7-F935FA3D1116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6010317E-9619-02C4-E9D7-F935FA3D1116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D53A19-E7F9-9F5A-976A-53E980C83CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D53A19-E7F9-9F5A-976A-53E980C83CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D53A19-E7F9-9F5A-976A-53E980C83CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D53A19-E7F9-9F5A-976A-53E980C83CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

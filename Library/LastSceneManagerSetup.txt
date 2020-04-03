@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/STKAssets/CS_Assets/CS_Scenes/STK_Level4.unity
+  isLoaded: 1
+  isActive: 1
